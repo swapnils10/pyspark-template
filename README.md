@@ -9,5 +9,6 @@ For Windows and Pycharm:
 
 Links that helped for fix system errors:
 
-1.https://sparkbyexamples.com/pyspark/pyspark-importerror-no-module-named-py4j-java_gateway-error/ 
-2. https://stackoverflow.com/questions/69342937/pypsark-on-windows-error-while-writing-data-frame-to-csv
+* https://sparkbyexamples.com/pyspark/pyspark-importerror-no-module-named-py4j-java_gateway-error/ 
+  
+* https://stackoverflow.com/questions/69342937/pypsark-on-windows-error-while-writing-data-frame-to-csv
