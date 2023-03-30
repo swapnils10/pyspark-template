@@ -7,7 +7,7 @@ For Windows and Pycharm:
 3. Add path from step 2 as Content root (Settings -> Project Structure)
 
 
-Links that helped for fix system errors:
+Links that helped to fix system errors:
 
 * https://sparkbyexamples.com/pyspark/pyspark-importerror-no-module-named-py4j-java_gateway-error/ 
   
